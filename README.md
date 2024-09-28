@@ -1,2 +1,0 @@
-# NewProfile
-my new profile
